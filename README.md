@@ -2,7 +2,7 @@
  E-commerce de cosmética natural
 
 ## Quienes somos
-***Efecto Mariposa*** es un emprendimiento familiar enfocado en otorgar una alternativa ecológica, tanto en el cuidado personal como del medio ambiente, mediante el uso de materias primas naturales, libres de crueldad animal y sustentables. 
+***Efecto Mariposa*** :butterfly: es un emprendimiento familiar enfocado en otorgar una alternativa ecológica, tanto en el cuidado personal como del medio ambiente, mediante el uso de materias primas naturales :herb: , libres de crueldad animal :rabbit: y sustentables :recycle: . 
 
 ## Público objetivo
 Este proyecto está orientado al público interesado en renovar o mantener sus hábitos de higiene y cuidado, a través del uso de productos eco-friendly.
@@ -35,6 +35,7 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 ## Paleta de colores
 
 [Principal] (https://www.colorhunt.co/palette/999b84d8ac9cefd9d1f4eeed)
+
 
 [Secundaria] (https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
 
