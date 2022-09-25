@@ -9,7 +9,7 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Listado de productos
 
-##Tipografías requeridas
+## Tipografías requeridas
 
 [Principal](https://fonts.google.com/specimen/Roboto+Condensed?preview.text=Efecto%20Mariposa&preview.text_type=custom)
 [Secundaria](https://fonts.google.com/specimen/Montserrat?preview.text=Efecto%20Mariposa&preview.text_type=custom)
