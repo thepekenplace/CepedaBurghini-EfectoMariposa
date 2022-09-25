@@ -9,22 +9,22 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Listado de productos
 
-- Shampoo sólidos
+- **Shampoo sólidos**
     - Pelo graso
     - Pelo normal
     - Pelo seco
-- Acondicionador sólido
-- Jabones
+- **Acondicionador sólido**
+- **Jabones**
     - Tocador
         - Vainilla
         - Jazmín
         - Lavanda
         - Coco
     - Exfoliante
-- Cepillos de dientes de bamboo
-- Esponjas vegetales
-- Jaboneras
-- Velas de cera de soja
+- **Cepillos de dientes de bamboo**
+- **Esponjas vegetales**
+- **Jaboneras**
+- **Velas de cera de soja**
 
 ## Tipografías requeridas
 
@@ -40,3 +40,6 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 [Secundaria] (https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
 
 [Terciaria] (https://www.colorhunt.co/palette/faf1e6fdfaf6e4efe7064420)
+
+## Logo
+
