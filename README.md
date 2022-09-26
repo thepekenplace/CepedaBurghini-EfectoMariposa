@@ -43,4 +43,4 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Logo
 
-![logo](/LogoEfctoMariposa.jpeg)
+![Logo](/LogoEfectoMariposa.jpeg)
