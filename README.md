@@ -43,4 +43,4 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Logo
 
-! (desktop/Curso Programacion/TP 1/Cepeda-EfectoMariposa/LogoEfectoMariposa.jpeg)
+! [logo](LogoEfectoMariposa.jpeg)
