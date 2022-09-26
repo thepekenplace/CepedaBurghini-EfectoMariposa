@@ -34,7 +34,7 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Paleta de colores
 
-### Paleta principal
+### [Paleta principal] (https://www.colorhunt.co/palette/999b84d8ac9cefd9d1f4eeed)
 
 `#999B84` `#D8AC9C` `#EFD9D1` `#F4EEED`
 
