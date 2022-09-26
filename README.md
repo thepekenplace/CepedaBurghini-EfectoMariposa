@@ -42,6 +42,8 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ### Paleta secundaria
 
+`#FEF5ED` `#D3E4CD` `#ADC2A9` `#99A799`
+
 ![Secundaria](/PaletaSecundaria.png)
 
 ### Paleta terciaria
