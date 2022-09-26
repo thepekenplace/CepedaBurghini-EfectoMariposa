@@ -35,12 +35,15 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 ## Paleta de colores
 
 ### Paleta principal
+`#999B84` `#D8AC9C` `#EFD9D1` `#F4EEED`
 ![Principal](/PaletaPrincipal.png)
 
 ### Paleta secundaria
+
 ![Secundaria](/PaletaSecundaria.png)
 
 ### Paleta terciaria
+
 ![Terciaria](/PaletaTerciaria.png)
 
 ## Logo
