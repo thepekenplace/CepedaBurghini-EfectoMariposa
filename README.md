@@ -34,13 +34,13 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Paleta de colores
 
-[Principal] (https://www.colorhunt.co/palette/999b84d8ac9cefd9d1f4eeed)
+[Principal](https://www.colorhunt.co/palette/999b84d8ac9cefd9d1f4eeed)
 
 
-[Secundaria] (https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
+[Secundaria](https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
 
-[Terciaria] (https://www.colorhunt.co/palette/faf1e6fdfaf6e4efe7064420)
+[Terciaria](https://www.colorhunt.co/palette/faf1e6fdfaf6e4efe7064420)
 
 ## Logo
 
-! [logo](/LogoEfctoMariposa.jpeg)
+![logo](/LogoEfctoMariposa.jpeg)
