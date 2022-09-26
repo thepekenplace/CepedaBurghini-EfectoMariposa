@@ -1,4 +1,4 @@
-# Cepeda - *Efecto* ***Mariposa*** :butterfly:
+# Cepeda - *Efecto*Mariposa*** :butterfly:
  E-commerce de cosmética natural
 
 ## Quienes somos
