@@ -34,12 +34,12 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ## Paleta de colores
 
-[Principal](https://www.colorhunt.co/palette/999b84d8ac9cefd9d1f4eeed)
+[Principal](/PaletaPrincipal.png)
 
 
-[Secundaria](https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
+[Secundaria](/PaletaSecundaria.png)
 
-[Terciaria](https://www.colorhunt.co/palette/faf1e6fdfaf6e4efe7064420)
+[Terciaria](/PaletaTerciaria.png)
 
 ## Logo
 
