@@ -40,13 +40,13 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ![Principal](/PaletaPrincipal.png)
 
-### Paleta secundaria
+### [Paleta secundaria](https://www.colorhunt.co/palette/fef5edd3e4cdadc2a999a799)
 
 `#FEF5ED` `#D3E4CD` `#ADC2A9` `#99A799`
 
 ![Secundaria](/PaletaSecundaria.png)
 
-### Paleta terciaria
+### [Paleta terciaria](https://www.colorhunt.co/palette/faf1e6fdfaf6e4efe7064420)
 
 `#FAF1E6` `#FDFAF6` `#E4EFE7` `#064420`
 
