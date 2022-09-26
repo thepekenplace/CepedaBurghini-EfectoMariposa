@@ -46,6 +46,8 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ### Paleta terciaria
 
+`#FAF1E6` `#FDFAF6` `#E4EFE7` `#064420`
+
 ![Terciaria](/PaletaTerciaria.png)
 
 ## Logo
